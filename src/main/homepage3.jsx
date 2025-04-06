@@ -524,16 +524,16 @@ const Homepage3 = () => {
               <div className="footer-col">
                 <h4>Connect With Us</h4>
                 <div className="social-links">
-                  <a href="#" className="social-icon">
+                  <a className="social-icon">
                     <i className="icon-facebook"></i>
                   </a>
-                  <a href="#" className="social-icon">
+                  <a className="social-icon">
                     <i className="icon-twitter"></i>
                   </a>
-                  <a href="#" className="social-icon">
+                  <a className="social-icon">
                     <i className="icon-linkedin"></i>
                   </a>
-                  <a href="#" className="social-icon">
+                  <a className="social-icon">
                     <i className="icon-instagram"></i>
                   </a>
                 </div>
@@ -550,9 +550,9 @@ const Homepage3 = () => {
           <div className="footer-bottom">
             <p>&copy; 2025 Davis & Associates. All rights reserved.</p>
             <div className="footer-bottom-links">
-              <a href="#">Privacy Policy</a>
-              <a href="#">Terms of Service</a>
-              <a href="#">Disclaimer</a>
+              <a>Privacy Policy</a>
+              <a>Terms of Service</a>
+              <a>Disclaimer</a>
             </div>
           </div>
         </div>
